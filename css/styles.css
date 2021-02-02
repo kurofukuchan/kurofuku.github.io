@@ -1,7 +1,9 @@
 h1 {
   color: black;
   font-size: 70px;
-  text-align: center;
+  text-align: center;  
+}
+header {
   background: center/cover orange url(https://use.fontawesome.com/releases/v5.6.1/css/all.css)
 }
 h2 {
