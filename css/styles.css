@@ -3,9 +3,13 @@ h1 {
   font-size: 70px;
   text-align: center;  
 }
-header {
-  background: center/cover orange url(https://use.fontawesome.com/releases/v5.6.1/css/all.css)
+{
+  const d = new Date();
+  console.log(`${d.getMonth() + 1} 月 ${d.getDate()}`);
 }
+/* header {
+  background: center/cover orange url(https://use.fontawesome.com/releases/v5.6.1/css/all.css)
+} */
 h2 {
 color: rgb(1, 73, 1);
 font-size: 50px;
