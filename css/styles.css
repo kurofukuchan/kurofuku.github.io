@@ -1,5 +1,7 @@
-@media screen and (min-width: 767px) {/*ウィンドウ幅が767px以上の場合に適用＊
-
+@media screen and (min-width: 767px) {/*ウィンドウ幅が767px以上の場合に適用*/
+  #menu-bg {
+    background-color: #00ffff; /*青色*/
+  }
 h1 {
   color: black;
   font-size: 70px;
